@@ -1,0 +1,14 @@
+C:\Users\jhmen\Code\Dotnet\exercism-csharp\LogLevels\bin\Debug\net8.0\LogLevels.exe
+C:\Users\jhmen\Code\Dotnet\exercism-csharp\LogLevels\bin\Debug\net8.0\LogLevels.deps.json
+C:\Users\jhmen\Code\Dotnet\exercism-csharp\LogLevels\bin\Debug\net8.0\LogLevels.runtimeconfig.json
+C:\Users\jhmen\Code\Dotnet\exercism-csharp\LogLevels\bin\Debug\net8.0\LogLevels.dll
+C:\Users\jhmen\Code\Dotnet\exercism-csharp\LogLevels\bin\Debug\net8.0\LogLevels.pdb
+C:\Users\jhmen\Code\Dotnet\exercism-csharp\LogLevels\obj\Debug\net8.0\LogLevels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhmen\Code\Dotnet\exercism-csharp\LogLevels\obj\Debug\net8.0\LogLevels.AssemblyInfoInputs.cache
+C:\Users\jhmen\Code\Dotnet\exercism-csharp\LogLevels\obj\Debug\net8.0\LogLevels.AssemblyInfo.cs
+C:\Users\jhmen\Code\Dotnet\exercism-csharp\LogLevels\obj\Debug\net8.0\LogLevels.csproj.CoreCompileInputs.cache
+C:\Users\jhmen\Code\Dotnet\exercism-csharp\LogLevels\obj\Debug\net8.0\LogLevels.dll
+C:\Users\jhmen\Code\Dotnet\exercism-csharp\LogLevels\obj\Debug\net8.0\refint\LogLevels.dll
+C:\Users\jhmen\Code\Dotnet\exercism-csharp\LogLevels\obj\Debug\net8.0\LogLevels.pdb
+C:\Users\jhmen\Code\Dotnet\exercism-csharp\LogLevels\obj\Debug\net8.0\LogLevels.genruntimeconfig.cache
+C:\Users\jhmen\Code\Dotnet\exercism-csharp\LogLevels\obj\Debug\net8.0\ref\LogLevels.dll
