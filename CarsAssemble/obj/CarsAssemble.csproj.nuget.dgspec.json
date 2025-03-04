@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jhmen\\Code\\Dotnet\\exercism-csharp\\CarsAssemble\\CarsAssemble.csproj": {}
+    "C:\\Users\\rosem\\Code\\exercism-csharp\\CarsAssemble\\CarsAssemble.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jhmen\\Code\\Dotnet\\exercism-csharp\\CarsAssemble\\CarsAssemble.csproj": {
+    "C:\\Users\\rosem\\Code\\exercism-csharp\\CarsAssemble\\CarsAssemble.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhmen\\Code\\Dotnet\\exercism-csharp\\CarsAssemble\\CarsAssemble.csproj",
+        "projectUniqueName": "C:\\Users\\rosem\\Code\\exercism-csharp\\CarsAssemble\\CarsAssemble.csproj",
         "projectName": "CarsAssemble",
-        "projectPath": "C:\\Users\\jhmen\\Code\\Dotnet\\exercism-csharp\\CarsAssemble\\CarsAssemble.csproj",
-        "packagesPath": "C:\\Users\\jhmen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhmen\\Code\\Dotnet\\exercism-csharp\\CarsAssemble\\obj\\",
+        "projectPath": "C:\\Users\\rosem\\Code\\exercism-csharp\\CarsAssemble\\CarsAssemble.csproj",
+        "packagesPath": "C:\\Users\\rosem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rosem\\Code\\exercism-csharp\\CarsAssemble\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jhmen\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\rosem\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

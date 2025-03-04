@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LogLevels
-build_property.ProjectDir = C:\Users\jhmen\Code\Dotnet\exercism-csharp\LogLevels\
+build_property.ProjectDir = C:\Users\rosem\Code\exercism-csharp\LogLevels\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
