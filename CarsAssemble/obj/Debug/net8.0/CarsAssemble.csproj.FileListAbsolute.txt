@@ -21,3 +21,10 @@ C:\Users\rosem\Code\exercism-csharp\CarsAssemble\obj\Debug\net8.0\CarsAssemble.s
 C:\Users\rosem\Code\exercism-csharp\CarsAssemble\obj\Debug\net8.0\CarsAssemble.dll
 C:\Users\rosem\Code\exercism-csharp\CarsAssemble\obj\Debug\net8.0\refint\CarsAssemble.dll
 C:\Users\rosem\Code\exercism-csharp\CarsAssemble\obj\Debug\net8.0\CarsAssemble.pdb
+C:\Users\rosem\Code\exercism-csharp\CarsAssemble\bin\Debug\net8.0\CarsAssemble.exe
+C:\Users\rosem\Code\exercism-csharp\CarsAssemble\bin\Debug\net8.0\CarsAssemble.deps.json
+C:\Users\rosem\Code\exercism-csharp\CarsAssemble\bin\Debug\net8.0\CarsAssemble.runtimeconfig.json
+C:\Users\rosem\Code\exercism-csharp\CarsAssemble\bin\Debug\net8.0\CarsAssemble.dll
+C:\Users\rosem\Code\exercism-csharp\CarsAssemble\bin\Debug\net8.0\CarsAssemble.pdb
+C:\Users\rosem\Code\exercism-csharp\CarsAssemble\obj\Debug\net8.0\CarsAssemble.genruntimeconfig.cache
+C:\Users\rosem\Code\exercism-csharp\CarsAssemble\obj\Debug\net8.0\ref\CarsAssemble.dll

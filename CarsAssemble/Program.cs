@@ -34,10 +34,11 @@
 
     public static int WorkingItemsPerMinute(int speed)
     {
-        throw new NotImplementedException("Please implement the (static) AssemblyLine.WorkingItemsPerMinute() method");
+        double result = ProductionRatePerHour(speed);
+        return (int)(result / 60);
     }
     public static void Main()
     {
-        Console.WriteLine(SuccessRate(10));
+        Console.WriteLine(WorkingItemsPerMinute(6));
     }
 }
